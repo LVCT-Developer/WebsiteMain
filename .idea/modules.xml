@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../halpes/.idea/halpes.iml" filepath="$PROJECT_DIR$/../halpes/.idea/halpes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lvcthealth_main.iml" filepath="$PROJECT_DIR$/.idea/lvcthealth_main.iml" />
+    </modules>
+  </component>
+</project>
